@@ -12,13 +12,12 @@ A class can be instantiated.
 1. Name a use case for a static method  
 Maybe a person is a class, a common method would be firstname + lastname. No sense to make that an instance method if it's going to be used a lot, so make it a static method.
 1. Write an example of a Higher Order function and describe the use case it solves  
+The simpler function *doMath* can be used separately from the *fixArray* function if needed.
 ```javascript
 function fixArray(someArray) {
   someArray.map(arrayItem => doMath(arrayItem))
 }
 ```
-The simpler function *doMath* can be used separately from the *fixArray* function if needed.
-
 
 ### Vocabulary
 **functional programming**  
