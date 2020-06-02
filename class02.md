@@ -1,17 +1,17 @@
 [Table of Contents](https://github.com/logantscott/june2020_reading)
 
 ### Reading, Research, and Discussion
-1. Name 3 advantages to Test Driven Development  
+1. **Name 3 advantages to Test Driven Development**  
 It can speed up development over time, can help make the code base more maintainable, and can easily help identify errors before going to production.
-1. In what case would you need to use beforeEach() or afterEach() in a test suite?  
+1. **In what case would you need to use beforeEach() or afterEach() in a test suite?**  
 Working with a database (especially where you only temporarily want data populated, add before and remove after)
-1. What is one downside of Test Driven Development  
+1. **What is one downside of Test Driven Development**  
 It's slow/expensive to start development because there's a lot of upfront work to get tests up and running.
-1. What’s the primary difference between ES6 Classes and Constructor/Prototype Classes?  
+1. **What’s the primary difference between ES6 Classes and Constructor/Prototype Classes?**  
 A class can be instantiated. 
-1. Name a use case for a static method  
+1. **Name a use case for a static method**  
 Maybe a person is a class, a common method would be firstname + lastname. No sense to make that an instance method if it's going to be used a lot, so make it a static method.
-1. Write an example of a Higher Order function and describe the use case it solves  
+1. **Write an example of a Higher Order function and describe the use case it solves**  
 The simpler function *doMath* can be used separately from the *fixArray* function if needed.
 ```javascript
 function fixArray(someArray) {
