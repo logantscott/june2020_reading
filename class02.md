@@ -42,6 +42,6 @@
 
 **Jest**
 
-**Continuous Integration (CI)-** 
+**Continuous Integration (CI)-**  
 Automatically build and test your code as you push it to GitHub, preventing bugs from being deployed to production.
 **unit test**
