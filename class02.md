@@ -10,3 +10,38 @@
 
 
 ### Vocabulary
+**functional programming**
+
+**pure function**
+
+**higher-order function**
+
+**immutable state**
+
+**object**
+
+**object-oriented programming (OOP)**
+
+**class**
+
+**prototype**
+
+**super**
+
+**inheritance**
+
+**constructor**
+
+**instance**
+
+**context**
+
+**this**
+
+**Test Driven Development (TDD)**
+
+**Jest**
+
+**Continuous Integration (CI)**
+Automatically build and test your code as you push it to GitHub, preventing bugs from being deployed to production.
+**unit test**
