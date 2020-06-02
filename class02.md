@@ -10,7 +10,7 @@ It's slow/expensive to start development because there's a lot of upfront work t
 1. **What’s the primary difference between ES6 Classes and Constructor/Prototype Classes?**  
 A class can be instantiated. 
 1. **Name a use case for a static method**  
-Maybe a person is a class, a common method would be firstname + lastname. No sense to make that an instance method if it's going to be used a lot, so make it a static method.
+Any method that doesn't need the specifics of a specific instance. Maybe make a random instance of a class.
 1. **Write an example of a Higher Order function and describe the use case it solves**  
 The simpler function *doMath* can be used separately from the *fixArray* function if needed.
 ```javascript
