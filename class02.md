@@ -1,3 +1,5 @@
+[Table of Contents](https://github.com/logantscott/june2020_reading)
+
 ### Reading, Research, and Discussion
 1. Name 3 advantages to Test Driven Development
 1. In what case would you need to use beforeEach() or afterEach() in a test suite?
