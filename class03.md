@@ -27,7 +27,7 @@ Data model is a high level design which decides what can be present in the schem
 **CRUD**  
 Create, read, update, and delete are the four basic functions of persistent storage.
 
-**schema** 
+**schema**  
 A database schema represents the logical configuration of all or part of a relational database. It can exist both as a visual representation and as a set of formulas known as integrity constraints that govern a database. These formulas are expressed in a data definition language, such as SQL. As part of a data dictionary, a database schema indicates how the entities that make up the database relate to one another, including tables, views, stored procedures, and more. 
 
 **sanitize**  
