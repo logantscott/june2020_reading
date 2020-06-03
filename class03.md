@@ -1,5 +1,7 @@
 [Table of Contents](https://github.com/logantscott/june2020_reading)
 
+## Data Modeling & NoSQL Databases
+
 ### Reading, Research, and Discussion
 1. **Why would a developer choose to make data models?**  
 Data models help give structure and rules to the organization of your data and how it relates. 

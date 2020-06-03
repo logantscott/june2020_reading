@@ -1,5 +1,7 @@
 [Table of Contents](https://github.com/logantscott/june2020_reading)
 
+## Classes, Inheritance, Functional Programming
+
 ### Reading, Research, and Discussion
 1. **Name 3 advantages to Test Driven Development**  
 It can speed up development over time, can help make the code base more maintainable, and can easily help identify errors before going to production.
