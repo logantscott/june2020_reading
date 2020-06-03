@@ -4,7 +4,7 @@
 1. **Why would a developer choose to make data models?**  
 Data models help give structure and rules to the organization of your data and how it relates. 
 
-1. **What purpose do CRUD operations serve?** 
+1. **What purpose do CRUD operations serve?**  
 Creation, reading, updating, and deleting of information. These are the four common database and RESTful operations (create/read/update/delete and post/get/put/delete). 
 
 1. **What kind of database is Postgres? What kind of database is MongoDB?**  
