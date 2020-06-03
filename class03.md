@@ -2,14 +2,19 @@
 
 ### Reading, Research, and Discussion
 1. **Why would a developer choose to make data models?**  
+Data models help give structure and rules to the organization of your data and how it relates. 
 
-1. **What purpose do CRUD operations serve?**  
+1. **What purpose do CRUD operations serve?** 
+Creation, reading, updating, and deleting of information. These are the four common database and RESTful operations (create/read/update/delete and post/get/put/delete). 
 
 1. **What kind of database is Postgres? What kind of database is MongoDB?**  
+Postgres is SQL (relational) and MongoDB is NoSQL.
 
 1. **What is Mongoose and why do we need it?**  
+Mongoose allows users to easily interact with MongoDB through NodeJS (object modeling). Mongoose provides type-casting, validation, and many other common operations.
 
 1. **Define three related pieces of data in a possible application. An example for a store application might be Product, Category and Department. Describe the constraints and rules on each piece of data and how you would relate these pieces to each other. For example, each Product has a Category and belongs in a Department.**  
+Customer, order, and inventory/item. An order contains a customer and one or more items. A customer can have one or more orders, but the customer table/document would only include customer information (name, shipping, billing, etc). An item can be on one or more orders going to one or more customers, but the item table/document would contain specific item information (title, price, etc). 
 
 
 ### Vocabulary
