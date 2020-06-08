@@ -24,14 +24,14 @@ Acronym for **RE**presentational **S**tate **T**ransfer. Operates on the state o
 | PATCH	  | UPDATE  | :heavy_check_mark: | :heavy_check_mark: |  |  |  | Update a record (just the parts that changed) |
 | DESTROY | DELETE  |  | :heavy_check_mark: | :heavy_check_mark: |  |  | Remove a record |
 
-**CRUD**
-**C**reate **R**ead **U**pdate **D**elete
+**CRUD**  
+**C**reate **R**ead **U**pdate **D**elete  
 **Safe**  
-Only for information retrieval, not state change.
+Only for information retrieval, not state change.  
 **Idempotent**  
-Two identical requests should get the same response.
+Two identical requests should get the same response.  
 **Cacheable**  
-The client should be able to cache the response.
+The client should be able to cache the response.  
 
 ### REST Documentation
 *Swagger/OpenAPI* - The OpenAPI Specification was donated to the Linux Foundation under the OpenAPI Initiative in 2015. The specification creates a RESTful interface for easily developing and consuming an API by effectively mapping all the resources and operations associated with it.
