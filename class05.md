@@ -15,7 +15,7 @@
 Acronym for **RE**presentational **S**tate **T**ransfer. Operates on the state of a resource most commonly with CRUD operations:
 
 | REST Method | CRUD Operation | Request Body | Response Body | Idempotent | Safe | Cacheable | Function |
-| :---    | :--- | :---: | :---: | :--- | :--- | :--- | :--- |
+| :---    | :--- | :---: | :---: | :---: | :---: | :---: | :--- |
 | GET     | READ |  | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | Retrieve 1 or More Records |
 | POST	  | CREATE	| :heavy_check_mark: | :heavy_check_mark: |  |  | :heavy_check_mark: | Create a new record |
 | PUT	    | UPDATE	| :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |  |  | Update a record through replacement (Put it back) |
