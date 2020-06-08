@@ -12,7 +12,7 @@
 
 
 ### REST
-Acronym for *RE*presentational *S*tate *T*ransfer
+Acronym for **RE**presentational **S**tate **T**ransfer
 
 Operates on the state of a resource most commonly with CRUD operations:
 
