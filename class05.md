@@ -34,6 +34,6 @@ Two identical requests should get the same response.
 The client should be able to cache the response.  
 
 ### REST Documentation
-*Swagger/OpenAPI* - The OpenAPI Specification was donated to the Linux Foundation under the OpenAPI Initiative in 2015. The specification creates a RESTful interface for easily developing and consuming an API by effectively mapping all the resources and operations associated with it.
+**Swagger/OpenAPI** - The OpenAPI Specification was donated to the Linux Foundation under the OpenAPI Initiative in 2015. The specification creates a RESTful interface for easily developing and consuming an API by effectively mapping all the resources and operations associated with it.
 
 [Swagger.io](https://swagger.io/) - Can be used for easily generating documentation for RESTful APIs.
