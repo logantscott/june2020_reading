@@ -14,7 +14,7 @@
 ### REST
 Acronym for **RE**presentational **S**tate **T**ransfer. Operates on the state of a resource most commonly with CRUD operations:
 
-| REST Method | CRUD Operation | Req | Res | Idempotent | Safe | Function |
+| REST Method | CRUD Operation | Req Body? | Res Body? | Idempotent | Safe | Function |
 | :---    | :--- | :---: | :---: | :--- | :--- | :--- |
 | GET     | READ |  | :heavy_check_mark: | Yes | Yes | Retrieve 1 or More Records |
 | POST	  | CREATE	| :heavy_check_mark: | :heavy_check_mark: | No | No | Create a new record |
