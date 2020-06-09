@@ -1,6 +1,6 @@
 [Table of Contents](https://github.com/logantscott/june2020_reading)
 
-## Readings: HTTP and REST
+## HTTP and REST
 
 ### HTTP
 **H**yper **T**ext **T**ransfer **P**rotocol is a stateless application-

@@ -4,4 +4,5 @@
 * [Class 02: Classes, Inheritance, Functional Programming](https://github.com/logantscott/june2020_reading/blob/master/class02.md)
 * [Class 03: Data Modeling & NoSQL Databases](https://github.com/logantscott/june2020_reading/blob/master/class03.md)
 * [Class 04: Advanced Mongo/Mongoose](https://github.com/logantscott/june2020_reading/blob/master/class04.md)
-* [Class 05: Readings: HTTP and REST](https://github.com/logantscott/june2020_reading/blob/master/class05.md)
+* [Class 06: HTTP and REST](https://github.com/logantscott/june2020_reading/blob/master/class06.md)
+* [Class 07: Express](https://github.com/logantscott/june2020_reading/blob/master/class07.md)
