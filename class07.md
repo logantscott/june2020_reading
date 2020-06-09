@@ -9,6 +9,7 @@
 
 
 ### CRUD Operations
+| CRUD | Express |
 | :--- | :--- |
 | **C**reate | app.post('/resource') |
 | **R**ead | app.get('/resource') |
