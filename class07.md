@@ -9,7 +9,7 @@
 
 
 ### CRUD Operations
-
+| :--- | :--- |
 | **C**reate | app.post('/resource') |
 | **R**ead | app.get('/resource') |
 | **U**pdate | app.put('/resource') |
