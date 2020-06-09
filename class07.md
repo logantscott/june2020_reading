@@ -6,18 +6,18 @@
 ```app.get('/thing', (req, res) => {})```
 
 #### Request (req, ...)
-id = 1234
-req.params.id = app.get('/thing/:id', ...) = app.get('/thing/1234', ...)
+id = 1234  
+req.params.id = app.get('/thing/:id', ...) = app.get('/thing/1234', ...)  
 req.query.id = http://localhost:7890/thing?id=1234
 
 #### Response (..., res)
 Sends data back to the client/browser (including status, headers, body)
 
 ### Express Middleware
-Generally speaking, does stuff before it hits the route. Some uses:
--Good for common tasks on a route(s)
--Error Handling
--Logging
+Generally speaking, does stuff before it hits the route. Some uses:  
+-Good for common tasks on a route(s)  
+-Error Handling  
+-Logging  
 -Parsing
 
 ### CRUD Operations
