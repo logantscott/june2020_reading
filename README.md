@@ -6,3 +6,4 @@
 * [Class 04: Advanced Mongo/Mongoose](https://github.com/logantscott/june2020_reading/blob/master/class04.md)
 * [Class 06: HTTP and REST](https://github.com/logantscott/june2020_reading/blob/master/class06.md)
 * [Class 07: Express](https://github.com/logantscott/june2020_reading/blob/master/class07.md)
+* [Class 08: Mongoose Populate](https://github.com/logantscott/june2020_reading/blob/master/class08.md)
