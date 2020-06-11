@@ -13,11 +13,11 @@ Mongoose has 4 types of middleware that can be used pre and post of the function
 | Document | Query | Aggregate | Model |
 | :--- | :--- | :--- | :--- |
 | [validate](https://mongoosejs.com/docs/api/document.html#document_Document-validate) | [count](https://mongoosejs.com/docs/api.html#query_Query-count) | [aggregate](https://mongoosejs.com/docs/api.html#model_Model.aggregate) | [insertMany](https://mongoosejs.com/docs/api.html#model_Model.insertMany) |
-| [save](https://mongoosejs.com/docs/api/model.html#model_Model-save) | [deleteMany]() | | |
-| [remove](https://mongoosejs.com/docs/api/model.html#model_Model-remove) | [find]() | | |
-| [updateOne](https://mongoosejs.com/docs/api/document.html#document_Document-updateOne) | [findOne]() | | |
-| [deleteOne](https://mongoosejs.com/docs/api/model.html#model_Model-deleteOne) | [findOneAndDelete]() | | |
-| [init*](https://mongoosejs.com/docs/api/document.html#document_Document-init) | [findOneAndRemove]() | | |
+| [save](https://mongoosejs.com/docs/api/model.html#model_Model-save) | [deleteMany](https://mongoosejs.com/docs/api.html#query_Query-deleteMany) | | |
+| [remove](https://mongoosejs.com/docs/api/model.html#model_Model-remove) | [find](https://mongoosejs.com/docs/api.html#query_Query-find) | | |
+| [updateOne](https://mongoosejs.com/docs/api/document.html#document_Document-updateOne) | [findOne](https://mongoosejs.com/docs/api.html#query_Query-findOne) | | |
+| [deleteOne](https://mongoosejs.com/docs/api/model.html#model_Model-deleteOne) | [findOneAndDelete](https://mongoosejs.com/docs/api.html#query_Query-findOneAndRemove) | | |
+| [init*](https://mongoosejs.com/docs/api/document.html#document_Document-init) | [findOneAndRemove](https://mongoosejs.com/docs/api.html#query_Query-findOneAndRemove) | | |
 | | [findOneAndUpdate](https://mongoosejs.com/docs/api.html#query_Query-findOneAndUpdate) | | |
 | | [remove](https://mongoosejs.com/docs/api.html#model_Model.remove) | | |
 | | [update](https://mongoosejs.com/docs/api.html#query_Query-update) | | |
