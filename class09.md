@@ -3,9 +3,9 @@
 ## Mongoose Methods
 
 ### Instance & Static Methods
-Just like ES6 classes, static methods apply to models and instance methods apply to documents. 
-```Instance: [schemaName].methods.[methodName] = function(callback) {}```
-```Static: [schemaName].statics.[staticName] = function(var) {}```
+Just like ES6 classes, static methods apply to models and instance methods apply to documents.   
+```Instance: [schemaName].methods.[methodName] = function(callback) {}```  
+```Static: [schemaName].statics.[staticName] = function(var) {}```  
 
 ### Mongoose Middleware
 Mongoose has 4 types of middleware that can be used pre and post of the functions being called. The 4 types and their functions:
