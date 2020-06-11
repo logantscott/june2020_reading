@@ -12,7 +12,7 @@ Mongoose has 4 types of middleware that can be used pre and post of the function
 
 | Document | Query | Aggregate | Model |
 | :--- | :--- | :--- | :--- |
-| [validate](https://mongoosejs.com/docs/api/document.html#document_Document-validate) | [count](https://mongoosejs.com/docs/api.html#query_Query-count) | [aggregate](https://mongoosejs.com/docs/api.html#model_Model.aggregate) | [insertMany](https://mongoosejs.com/docs/api.html#model_Model.insertMany |
+| [validate](https://mongoosejs.com/docs/api/document.html#document_Document-validate) | [count](https://mongoosejs.com/docs/api.html#query_Query-count) | [aggregate](https://mongoosejs.com/docs/api.html#model_Model.aggregate) | [insertMany](https://mongoosejs.com/docs/api.html#model_Model.insertMany) |
 | [save](https://mongoosejs.com/docs/api/model.html#model_Model-save) | [deleteMany]() | | |
 | [remove](https://mongoosejs.com/docs/api/model.html#model_Model-remove) | [find]() | | |
 | [updateOne](https://mongoosejs.com/docs/api/document.html#document_Document-updateOne) | [findOne]() | | |
