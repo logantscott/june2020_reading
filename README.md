@@ -11,3 +11,4 @@
 * [Class 09: Mongoose Methods](https://github.com/logantscott/june2020_reading/blob/master/class09.md)  
 
 * [Class 11: Authorization](https://github.com/logantscott/june2020_reading/blob/master/class11.md)
+* [Class 12: User Auth](https://github.com/logantscott/june2020_reading/blob/master/class12.md)
