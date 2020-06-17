@@ -12,3 +12,4 @@
 
 * [Class 11: Authorization](https://github.com/logantscott/june2020_reading/blob/master/class11.md)
 * [Class 12: User Auth](https://github.com/logantscott/june2020_reading/blob/master/class12.md)
+* [Class 13: Mongo Aggregations](https://github.com/logantscott/june2020_reading/blob/master/class13.md)
