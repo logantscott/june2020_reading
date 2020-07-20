@@ -1,4 +1,6 @@
-## June 2020 Reading Notes
+# June 2020 Reading Notes
+
+## Backend
 
 * [Class 01: Node Ecosystem, TDD, CI/CD](https://github.com/logantscott/june2020_reading/blob/master/class01.md)
 * [Class 02: Classes, Inheritance, Functional Programming](https://github.com/logantscott/june2020_reading/blob/master/class02.md)
@@ -13,3 +15,9 @@
 * [Class 11: Authorization](https://github.com/logantscott/june2020_reading/blob/master/class11.md)
 * [Class 12: User Auth](https://github.com/logantscott/june2020_reading/blob/master/class12.md)
 * [Class 13: Mongo Aggregations](https://github.com/logantscott/june2020_reading/blob/master/class13.md)
+
+
+
+## Frontend
+
+* [Class 26: Component Based UI](https://github.com/logantscott/june2020_reading/blob/master/class26.md)
