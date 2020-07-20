@@ -1,6 +1,6 @@
 [Table of Contents](https://github.com/logantscott/june2020_reading)
 
-## Component Based UI  
+# Component Based UI  
 
 
 ### Webpack  
