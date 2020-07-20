@@ -18,7 +18,7 @@
 #### Conditional Rendering  
 This is basically if/then logic inside of JSX, returning different HTML/elements.  
 ```
-if(isLoggedIn){ <h1>hello!</h1> } else { <h1>please login</h1> }
+if(isLoggedIn){ return <h1>hello!</h1> } else { return <h1>please login</h1> }
 ```
 
 #### Components and Props  
