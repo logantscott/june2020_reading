@@ -24,3 +24,5 @@
 * [Class 27: React Props and State](https://github.com/logantscott/june2020_reading/blob/master/class27.md)
 * [Class 28: Hooks API](https://github.com/logantscott/june2020_reading/blob/master/class28.md)
 * [Class 29: MVC](https://github.com/logantscott/june2020_reading/blob/master/class29.md)
+
+* [Class 31: Hooks](https://github.com/logantscott/june2020_reading/blob/master/class31.md)
