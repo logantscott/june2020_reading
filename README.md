@@ -26,4 +26,5 @@
 * [Class 29: MVC](https://github.com/logantscott/june2020_reading/blob/master/class29.md)
 
 * [Class 31: Hooks](https://github.com/logantscott/june2020_reading/blob/master/class31.md)
-* [Class 32: Custom Hooks](https://github.com/logantscott/june2020_reading/blob/master/class31.md)
+* [Class 32: Custom Hooks](https://github.com/logantscott/june2020_reading/blob/master/class32.md)
+* [Class 33: MVVM](https://github.com/logantscott/june2020_reading/blob/master/class33.md)
