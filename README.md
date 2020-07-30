@@ -28,3 +28,4 @@
 * [Class 31: Hooks](https://github.com/logantscott/june2020_reading/blob/master/class31.md)
 * [Class 32: Custom Hooks](https://github.com/logantscott/june2020_reading/blob/master/class32.md)
 * [Class 33: MVVM](https://github.com/logantscott/june2020_reading/blob/master/class33.md)
+* [Class 34: React Context](https://github.com/logantscott/june2020_reading/blob/master/class34.md)
